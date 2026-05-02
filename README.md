@@ -8,3 +8,8 @@ Live Demo -
 🎚️ Interactive slider control
 📋 One-click CSS copy button
 💡 Clean and modern UI design
+
+🛠️ Built With
+HTML5
+CSS3
+JavaScript
