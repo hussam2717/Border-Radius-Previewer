@@ -18,3 +18,6 @@ JavaScript
  ┣ 📄 index.html
  ┣ 📄 style.css
  ┣ 📄 script.js
+
+ 🎯 Use Case
+This tool helps developers quickly test and apply border-radius styles without manually writing values.
