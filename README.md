@@ -3,7 +3,7 @@ A simple and interactive tool to visualize and generate CSS border-radius values
 
 ## Live Demo - https://hussam2717.github.io/Border-Radius-Previewer/
 
-✨ Features
+## ✨ Features
 🎯 Real-time border-radius preview
 🎚️ Interactive slider control
 📋 One-click CSS copy button
